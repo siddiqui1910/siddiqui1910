@@ -22,7 +22,7 @@ Currently: writing Python daily, breaking things, fixing them.
 These are small. They will get bigger.
 
 ## Goals
-Backend → DevOps → ML/MLOps. Long road. Building in public.## Hi there 👋
+Backend → DevOps → ML/MLOps. Long road. Building in public.
 
 <!--
 **siddiqui1910/siddiqui1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
